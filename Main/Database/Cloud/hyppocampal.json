@@ -1,18 +1,18 @@
 [
   {
     "author": "Galahad",
-    "collections": "Temporada",
+    "collections": "Gradient",
     "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
-    "name": "CandyCane",
+    "name": "GR0",
     "downloadable": false,
-    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Nv22/utopia_candycane.png"
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr0.png"
   },
   {
     "author": "Gañahad",
-    "collections": "Floral",
+    "collections": "Gradient",
     "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
-    "name": "Leaf Material",
+    "name": "GR1",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Ag22/my5.png",
-    "url": "https://raw.githubusercontent.com/WaifuPX-DG/UtopiaWalls/main/Resources/Database/Ag22/my5.png"
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr1.png"
   }
 ]
