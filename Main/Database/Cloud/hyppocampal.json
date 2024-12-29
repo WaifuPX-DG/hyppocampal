@@ -14,5 +14,29 @@
     "name": "GR1",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr1.png",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr1.png"
+  },
+  {
+    "author": "Galahad",
+    "collections": "Gradients",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "GR2",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr2.png",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr2.png"
+  },
+  {
+    "author": "Galahad",
+    "collections": "Wireframe",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "GR3 WF",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr3.png",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr3.png"
+  },
+  {
+    "author": "Galahad",
+    "collections": "Wireframe",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required.",
+    "name": "GR4 WF",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr4.png",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/hyppocampal/refs/heads/main/Main/Database/Spectro/gr4.png"
   }
 ]
